@@ -11,5 +11,9 @@
 
 - Commit dos 3 exercícios práticos de <u>desafios de código</u> dentro da pasta DesafiosIniciaisEmJavaScript :heavy_check_mark:
 
+- Commit do Projeto01-Genius, alterado da versão original para a versão custom 1.01 (versão custom por Rafael Vendramini) :heavy_check_mark:
+
+  
+  
   
 

@@ -1,0 +1,129 @@
+.aside {
+    justify-content: left;
+    min-width: 50px;
+    max-width: 300px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    width: 30%;
+    height: 100%;
+    float: left;
+    position: fixed;
+    padding: 10px;
+    background: #ffffff;
+    display: block;
+    overflow: auto;
+}
+
+.aTitulo {
+    margin: 5% 4% 0% 4%;
+    padding: 0;
+    font-family: 'Coming Soon', Arial;
+    font-size: 28px;
+}
+
+.aTituloh2 {
+    margin: -12px 6.5% 0% 10%;
+    padding: 0;
+    text-align: right;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none
+}
+  
+ul li:before {
+    content: '●';
+    margin: 0 6px; 
+}
+
+.liYellow:before {
+    color: yellow;
+}
+
+.liGreen:before {
+    color: green;
+}
+
+.liRed:before {
+    color: red;
+}
+
+.liBlue:before {
+    color: blue;
+}
+
+.aInformativo {
+    margin-top: 10%;
+    font-family: Arial;
+    text-align: left;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+label {
+    display: flex;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+textarea {
+    display: flex;
+  }
+
+
+#outScore, #outBestScore {
+    width: 25%;
+    height: 6%;
+    resize: none;
+    margin-left: 30%;
+    font-size: 16px;
+    font-family: Arial;
+    text-align: right;
+}
+
+.lOutEvents {
+    display: flex;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 2%;
+}
+
+#outEvents {
+    resize: none;
+    width: 97%;
+    height: auto;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+button.btnStart {
+    font-family: 'Coming Soon', Arial;
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 8px;
+    width: 80%;
+    border-radius: 6px;
+    margin-left: 8.4%;
+}
+
+button.btnStart:hover {
+    background-color: black;
+    color: white;
+}
+
+.iFooter p {
+    margin: 0;
+    margin-top: 5vh;
+    padding: 0;
+    font-family: Arial;
+    text-align: center;
+    font-size: 12px;
+}
