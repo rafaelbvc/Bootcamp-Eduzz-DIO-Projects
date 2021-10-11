@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/aside.css">
+    <title>Genius | versão 1.01</title>
+</head>
+<body>
+    <aside class="aside">
+        <h1 class="aTitulo">Bem Vindo ao Genius</h1>
+        <h2 class="aTituloh2">Versão 1.01</h2>
+        <div class="aInformativo">
+            <p>O jogo estimula a memorização de cores em um formato bem similar a um disco.</p>
+            <p>São quatro botões:</p> 
+            <ul>
+                <li class="liGreen">Verde</li>
+                <li class="liRed">Vermelho</li>
+                <li class="liYellow">Amarelo</li>
+                <li class="liBlue">Azul</li>
+            </ul>
+            <p>que são tocados em uma determinada ordem.<br> 
+                O objetivo do jogo é decorar a ordem que foram tocadas as cores e reproduzir a mesma ordem.</p>
+        </div>
+        <table class="outputs">
+            <tr>
+                <td><label for="outBestScore">BEST SCORE:</label></td>
+                <td><textarea name="BestScore" id="outBestScore" rows="1" readonly>0</textarea></td>  
+            </tr>
+            <tr>
+                <td><label for="outScore">SCORE:</label></td>
+                <td><textarea name="Score" id="outScore" rows="1" readonly>0</textarea></td>
+            </tr>
+        </table>
+        <label for="outEvents" class="lOutEvents">EVENTS:</label>
+        <textarea name="Events" id="outEvents" rows="2" readonly>Bem vindo ao Genius!</textarea>
+        <br><br>
+        <button type="button" class="btnStart" onclick='btnComeca();'>  START  </button>
+        <footer class="iFooter"><p>Adaptado por Rafael Barbosa Vendramini Costa</p></footer>                    
+    </aside>
+    <div class="main-game">
+        <div class="genius">
+            <div class="blue"></div>
+            <div class="yellow"></div>
+            <div class="red"></div>
+            <div class="green"></div>
+        </div>
+    </div>
+    <script type="text/javascript" src="scripts/script.js"></script>
+</body>
+</html>
