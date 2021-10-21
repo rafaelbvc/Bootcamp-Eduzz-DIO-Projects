@@ -11,13 +11,8 @@
 
 - Push dos 3 exercícios práticos de <u>desafios de código</u> dentro da pasta DesafiosIniciaisEmJavaScript :heavy_check_mark:
 
-<<<<<<< HEAD
-- Commit do Projeto01-Genius, alterado da versão original para a versão custom 1.01 (versão custom por Rafael Vendramini) :heavy_check_mark:
-=======
 - Push do Projeto01-Genius, alterado da versão original para a versão custom 1.01 (versão custom por Rafael Vendramini) :heavy_check_mark:
->>>>>>> 958784a1f47df94528652e4dc6100469590abc40
+
+- Push dos 3 exercícios práticos de <u>desafios de código</u> dentro da pasta DesafiosBásicosEmJavaScript :heavy_check_mark:
 
   
-  
-  
-
