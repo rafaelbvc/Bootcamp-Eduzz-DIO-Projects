@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`randers texts at app 1`] = `"text"`;
+
+exports[`renders buttons at app 1`] = `"button"`;
+
+exports[`renders texts at app 1`] = `"text"`;
+
+exports[`renders the profile image 1`] = `"img"`;

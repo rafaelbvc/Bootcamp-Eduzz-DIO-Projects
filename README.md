@@ -15,4 +15,7 @@
 
 - Push dos 3 exercícios práticos de <u>desafios de código</u> dentro da pasta DesafiosBásicosEmJavaScript :heavy_check_mark:
 
+- Push do Projeto02-MyProfileRV, projeto próprio :heavy_check_mark:
+
   
+
