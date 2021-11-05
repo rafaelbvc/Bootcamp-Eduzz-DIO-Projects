@@ -1,6 +1,6 @@
 ## Este é o repositório destinado ao Projeto 02 - MyProfileRV, projeto criado por Rafael Barbosa Vendramini Costa, no intuito de aprendizado sobre react-native,  o mesmo está separado e em containers e cada container estilizado separadamente, adicionado funções de aplicativos simples, está em versão inicial, muito dos componentes não estão com suas funcionalidades completas, e estão em modo "dummy",  será refatorado. :yellow_heart::handshake::rocket::coffee:
 
-### Link do projeto MyProfileRV no GitHub:  <>
+### Link do projeto MyProfileRV no GitHub:  <https://github.com/rafaelbvc/Bootcamp-Eduzz-DIO-Projects/tree/main/Projeto02_MyProfileRV>
 
 ### Link do projeto em funcionamento:  <https://youtu.be/cDCIJvP475Y>
 
