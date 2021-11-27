@@ -19,5 +19,7 @@
 
 - Push dos 3 excercícios práticos de <u>desafios de código</u> dentro da pasta DesafiosMédiosEmJavaScript :heavy_check_mark:
 
+- Push do Projeto03-EncurtadorDeUrl :heavy_check_mark:
+
   
 
