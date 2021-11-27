@@ -17,5 +17,7 @@
 
 - Push do Projeto02-MyProfileRV, projeto próprio :heavy_check_mark:
 
+- Push dos 3 excercícios práticos de <u>desafios de código</u> dentro da pasta DesafiosMédiosEmJavaScript :heavy_check_mark:
+
   
 
